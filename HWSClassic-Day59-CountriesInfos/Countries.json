@@ -1,0 +1,124 @@
+{
+    "countries": [
+        {
+            "name": "France",
+            "capitalCity": "Paris",
+            "language": "French",
+            "area": 672051,
+            "waterArea": "0.26 %",
+            "population": 68014000
+        },
+        {
+            "name": "Germany",
+            "capitalCity": "Berlin",
+            "language": "German",
+            "area": 357022,
+            "waterArea": "1.27 %",
+            "population": 83190556
+        },
+        {
+            "name": "Spain",
+            "capitalCity": "Madrid",
+            "language": "Spanish",
+            "area": 505990,
+            "waterArea": "0.89 %",
+            "population": 47450795
+        },
+        {
+            "name": "United Kingdom",
+            "capitalCity": "London",
+            "language": "English",
+            "area": 242495,
+            "waterArea": "1.51 %",
+            "population": 67081000
+        },
+        {
+            "name": "Belgium",
+            "capitalCity": "Brussels",
+            "language": "Dutch, French, German",
+            "area": 30689,
+            "waterArea": "0.71 %",
+            "population": 11492641
+        },
+        {
+            "name": "Italy",
+            "capitalCity": "Rome",
+            "language": "Italian",
+            "area": 301340,
+            "waterArea": "1.24 %",
+            "population": 60317116
+        },
+        {
+            "name": "Irland",
+            "capitalCity": "Dublin",
+            "language": "Irish, English",
+            "area": 70273,
+            "waterArea": "2.00 %",
+            "population": 5011500
+        },
+        {
+            "name": "Greece",
+            "capitalCity": "Athens",
+            "language": "Greek",
+            "area": 131957,
+            "waterArea": "1.51 %",
+            "population": 10718565
+        },
+        {
+            "name": "Netherlands",
+            "capitalCity": "Amsterdam",
+            "language": "Dutch",
+            "area": 41865,
+            "waterArea": "18.41 %",
+            "population": 17651600
+        },
+        {
+            "name": "Sweden",
+            "capitalCity": "Stockholm",
+            "language":" Swedish",
+            "area": 450295,
+            "waterArea": "8.37 %",
+            "population": 10402070
+        },
+        {
+            "name": "Denmark",
+            "capitalCity": "Copenhagen",
+            "language": "Danish",
+            "area": 42933,
+            "waterArea": "1.74 %",
+            "population": 5850189
+        },
+        {
+            "name": "Portugal",
+            "capitalCity": "Lisbon",
+            "language": "Portuguese",
+            "area": 92212,
+            "waterArea": "1.20 %",
+            "population": 10347892
+        },
+        {
+            "name": "Austria",
+            "capitalCity": "Vienna",
+            "language": "German",
+            "area": 83879,
+            "waterArea": "0.84 %",
+            "population": 8935112
+        },
+        {
+            "name": "Romania",
+            "capitalCity": "Bucharest",
+            "language": "Romanian",
+            "area": 238397,
+            "waterArea": "3 %",
+            "population": 19186201
+        },
+        {
+            "name": "Czech Republic",
+            "capitalCity": "Prague",
+            "language": "Czech",
+            "area": 78871,
+            "waterArea": "2.12 %",
+            "population": 10701777
+        }
+    ]
+}
