@@ -2,6 +2,7 @@
 
 Project with two UITableViewController and a json file which was created to store all infos of countries that we find then on the two tableView.
 
+<img width="326" alt="ListOfCountries" src="https://user-images.githubusercontent.com/79987744/151518806-0847c566-d894-4803-a6d6-acc35cdf48d1.png"> <img width="318" alt="CountryDetail" src="https://user-images.githubusercontent.com/79987744/151518815-f0b08726-0a4d-4ede-9b3a-39a4223446c9.png">
 
 "Your challenge is to make an app that contains facts about countries: show a list of country names in a table view,
 then when one is tapped bring in a new screen that contains its capital city, size, population, currency, and any other facts that interest you.
